@@ -1,0 +1,45 @@
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  background: linear-gradient(45deg, #49a09d, #5f2c82);
+}
+.hedding{
+  font-size: 20px;
+  color:#ab8181;
+}
+.main-section{
+  position: absolute;
+  left:50%;
+  right:50%;
+  transform: translate(-50%,5%);
+}
+.left-side-product-box img{
+  width: 100%;
+}
+.left-side-product-box .sub-img img{
+  margin-top:5px;
+  width:83px;
+  height:100px;
+}
+.right-side-pro-detail span{
+  font-size:15px;
+}
+.right-side-pro-detail p{
+  font-size:25px;
+  color:#a1a1a1;
+}
+.right-side-pro-detail .price-pro{
+  color:#E45641;
+}
+.right-side-pro-detail .tag-section{
+  font-size:18px;
+  color:#5D4C46;
+}
+
+.btn{
+  text-decoration: none;
+  font-weight: bold;
+  color: #ff85a4;
+}
+.btn:hover{
+  color: #ffa9be;
+}
